@@ -1,0 +1,9 @@
+# Integrating Apps
+
+ZenKey is a secure bridge between your users and the apps and services you provide. As the joint undertaking of the three major US wireless carriers — AT&T, Verizon, and T-Mobile — ZenKey leverages encryption technologies in mobile phones and networks. The platform packages multiple factors of authentication into a streamlined experience for app and website providers taking advantage of the unique capabilities and insights of the wireless carriers. It then applies those capabilities to provide an easy and secure way to register, log in, and perform other types of authorizations within apps and services. The result for you is a better user experience and a more secure link to users.
+
+ZenKey SDK supports the authorization code flow for web and native applications. In the flow, users redirect to the carrier for authorization. Upon successful authorization, users redirect to your backend with an authorization code, which your backend exchanges for an ID Token (`id_token`). This flow enhances security, as neither the `client_id`, `client_secret`, or `user_id` token are revealed to your client.
+
+Because each mobile carrier operates its own authorization servers, ZenKey determines users' carriers prior to authentication through a process called carrier discovery — an OIDC Discovery flow with extra parameters that ensure the discovery document from ZenKey originates from the right carrier.
+
+The solution enables two main process flows: app and web. The app flow is for your native apps or browser-based websites that are used on the same device as ZenKey. The web flow shows secondary device support when your website is accessed from a device other than a user’s primary phone.

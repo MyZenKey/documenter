@@ -1,0 +1,3 @@
+# Identity service brand integration guidelines
+
+This documentation provides guidelines on how to use the ZenKey brand on and within native applications or web sites integrated with ZenKey Identity Service to allow for the best user experience. Your right to use the ZenKey brand is contingent upon compliance with these Brand Integration Guidelines as well as the terms of the applicable agreement(s) between you and ZenKey LLC and/or its affiliates.

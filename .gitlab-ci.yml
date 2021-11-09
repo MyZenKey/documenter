@@ -1,0 +1,23 @@
+stages:
+  - build
+  - deploy
+
+build:
+  stage: build
+  image: node:15.12-alpine3.13
+  script:
+  - npm ci
+  - npm run build
+  artifacts:
+    paths:
+    - build
+
+s3:
+  stage: deploy
+  image: 
+    name: amazon/aws-cli
+    entrypoint: [""]
+  script:
+    - aws --version
+    - aws s3 rm s3://$S3_BUCKET --recursive
+    - aws s3 cp public s3://$S3_BUCKET --recursive
