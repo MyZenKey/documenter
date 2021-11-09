@@ -6,8 +6,8 @@ const darkCodeTheme = require('./src/themes/dark');
 (module.exports = {
     title: 'ZenKey Docs',
     tagline: 'Your digital identity belongs to you',
-    url: 'https://docs.myzenkey.com',
-    baseUrl: '/',
+    url: 'https://myzenkey.github.io/documenter/',
+    baseUrl: '/documenter/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
