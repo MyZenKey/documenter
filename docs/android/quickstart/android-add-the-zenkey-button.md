@@ -67,7 +67,7 @@ public class MyFragment extends Fragment {
 
 ## Create a custom button
 
-Custom buttons must meet the ZenKey brand integration guidelines for approval. Read more about button requirements in the [identity service brand integration guidelines](..\..\best-practices\best-practices-identity-service-brand-integration-guidelines\brand-guidelines-zenkey-buttons.md)
+Custom buttons must meet the ZenKey brand integration guidelines for approval. Read more about button requirements in the [identity service brand integration guidelines](../../best-practices\best-practices-identity-service-brand-integration-guidelines\brand-guidelines-zenkey-buttons.md)
 
 
 Instead of the default `ZenKeyButton`, you may use your own custom button or view. This option is useful if your login UX is presented in a WebView see [display a webview for user login on Android](./../integration-guide/android-display-a-webview-for-user-login.md).
