@@ -303,10 +303,10 @@ The sequence diagrams below shows the data flow between the various components w
 An asyncchronous flow can be a flow that has human interaction - like send a secure link via SMS to a user for approval.
 
 - Basic Flow 
-<img src="./sequenceDiagrams/SKFlowAPI1.png"/>
+![Singular Key API Flow 1](./sequenceDiagrams/SKFlowAPI1.png "Singular Key API Flow 1")
 
 - Relying Party polls for result
-<img src="./sequenceDiagrams/SKFlowAPI2.png"/>
+![Singular Key API Flow 2](./sequenceDiagrams/SKFlowAPI2.png "Singular Key API Flow 2")
 
 - Singular Key sends a webhook to the relying party with the results,
-<img src="./sequenceDiagrams/SKFlowAPI3.png"/>
+![Singular Key API Flow 3](./sequenceDiagrams/SKFlowAPI3.png "Singular Key API Flow 3")

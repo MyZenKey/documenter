@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Technical overview
 
 The following diagram shows basic application logic between service provider, ZenKey, and the mobile network carrier.
