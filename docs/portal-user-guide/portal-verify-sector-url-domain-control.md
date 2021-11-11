@@ -1,3 +1,7 @@
+---
+sidebar_position: 17
+---
+
 # Verify Sector URL Domain Control
 
 To verify sector URI domain control, follow the portal instructions:

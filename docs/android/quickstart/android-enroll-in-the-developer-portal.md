@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Developer Portal Enrollment
 
 Before integrating the ZenKey SDK:

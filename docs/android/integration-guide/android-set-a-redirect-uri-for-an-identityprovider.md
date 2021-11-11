@@ -1,3 +1,6 @@
+---
+sidebar_position: 18
+---
 # Setting Redirect URI for IdentityProvider on Android
 
 When using `identityProvider` instead of `ZenKeyButton`, set th redirect URI this way:

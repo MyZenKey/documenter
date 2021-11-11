@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Getting started in the portal
 
 Third-party app and website publishers who use ZenKey for authentication/authorization are referred to as “Service Providers”.

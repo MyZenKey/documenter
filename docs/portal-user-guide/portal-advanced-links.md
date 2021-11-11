@@ -1,3 +1,7 @@
+---
+sidebar_position: 11
+---
+
 # Advanced project links
 
 Advanced project links are optional.

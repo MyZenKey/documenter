@@ -23,7 +23,7 @@ By default, authorization requests made with the ZenKey SDK include the `openid 
 
 For more information, refer to the following guides: 
 
-  * [Set scopes for user information on Android](../../android/android-set-scopes-for-user-information.md)
+  * [Set scopes for user information on Android](../../android/integration-guide/android-set-scopes-for-user-information.md)
   <!-- * [Set scopes for user information on iOS](../../for-ios-dev/ios-set-scopes-for-user-information)  -->
   * [Integration options on the web](../../web/web-integration-options) 
 

@@ -1,4 +1,8 @@
-# Getting Started
+---
+sidebar_position: 1
+---
+
+# Introduction
 
 In a world of security breaches and identity theft, providing services to users is complicated. How can you create the best user experience and make signing in easier while protecting user data and assets?
 

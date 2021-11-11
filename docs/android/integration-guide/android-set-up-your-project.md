@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Project Setup on Android
 
 The ZenKey SDK has the following dependency.

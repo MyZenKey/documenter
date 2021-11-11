@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Enabling Internet Access on Android
 
 If you don't already have internet permissions, add them to your Android manifest.

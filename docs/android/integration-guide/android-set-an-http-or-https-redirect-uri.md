@@ -1,3 +1,6 @@
+---
+sidebar_position: 17
+---
 # Setting HTTP or HTTPS Redirect URI for Android
 
 HTTPS redirects are more secure and preferable to HTTP. If you require an HTTP/HTTPS redirect URI instead of a custom scheme, modify your AndroidManifest.xml:

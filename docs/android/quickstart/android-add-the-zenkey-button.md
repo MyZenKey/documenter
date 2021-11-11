@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Adding ZenKey Button on Android
 
 The ZenKey SDK provides a default button to interact with the `identityProvider` and start the authorization intent. To use the ZenKey button, add the following to your XML layout.
@@ -14,7 +18,7 @@ The ZenKey SDK provides a default button to interact with the `identityProvider`
 
 The button's appearance is customizable. A dark button style is the default style and looks like this:
 
-![ZenKey dark button](ab0a93f-ZenKey_Dark_Button.png)
+![ZenKey dark button](dark.png)
 
 ## Add a light color button
 
@@ -30,7 +34,7 @@ To use the light button style, add the parameter ```app:ZenKeyButtonMode="LIGHT"
 
 The light button style looks like this:
 
-![ZenKey light button](bbd4993-ZenKey_Light_Button.png)
+![ZenKey light button](light.png)
 
 ## Add button text 
 
@@ -63,10 +67,10 @@ public class MyFragment extends Fragment {
 
 ## Create a custom button
 
-Custom buttons must meet the ZenKey brand integration guidelines for approval. Read more about button requirements in the [identity service brand integration guidelines](../best-practices/best-practices-identity-service-brand-integration-guidelines/brand-guidelines-zenkey-buttons.md)
+Custom buttons must meet the ZenKey brand integration guidelines for approval. Read more about button requirements in the [identity service brand integration guidelines](..\..\best-practices\best-practices-identity-service-brand-integration-guidelines\brand-guidelines-zenkey-buttons.md)
 
 
-Instead of the default `ZenKeyButton`, you may use your own custom button or view. This option is useful if your login UX is presented in a WebView see [display a webview for user login on Android](android-display-a-webview-for-user-login.md).
+Instead of the default `ZenKeyButton`, you may use your own custom button or view. This option is useful if your login UX is presented in a WebView see [display a webview for user login on Android](./../integration-guide/android-display-a-webview-for-user-login.md).
 
 To make authorization requests, you can use `identityProvider`,  but we recommend using `ZenKeyButton` (the default button interacts with the identityProvider and initiates the authorization intent). If you decide to use `identityProvider`, you call `ZenKey.identityProvider().authorizeIntent().build()`.
 

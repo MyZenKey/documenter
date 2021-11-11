@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Limited trial agreement
 
 From the Getting Started tab, click `Start Submission`, enter the requested information about your company, and press “Submit Company”. 

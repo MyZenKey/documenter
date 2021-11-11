@@ -1,3 +1,7 @@
+---
+sidebar_position: 8
+---
+
 # Displaying Webview for User Login on Android
 
 With ZenKey, your app can use a `WebView` to trigger the native SDK letting users sign in via `AuthorizeIntentBuilder`. It's unnecessary to override the ZenKey button to call the Android SDK via a `WebView`. Rather, you override the `WebViewClient.shouldInterceptRequest` method and use `AuthorizeIntentBuilder` to generate an `Intent` to call `Context.startActivityForResult` with the generated `Intent`.

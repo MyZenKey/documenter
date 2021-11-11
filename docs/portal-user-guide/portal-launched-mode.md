@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # Launched mode
 
 Organizations governed by ZenKey's Commercial Agreement can put their clients into **Launched Mode**.

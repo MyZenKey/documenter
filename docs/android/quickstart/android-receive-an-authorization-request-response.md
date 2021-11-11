@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # Receiving Authorization Request Response on Android
 
 ZenKey's SDK returns the authorization result using an Intent. To receive responses from authorization requests, your Activity must be designed to receive the Intent.

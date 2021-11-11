@@ -58,6 +58,12 @@ const darkCodeTheme = require('./src/themes/dark');
                     position: 'left',
                     label: 'Docs',
                 },
+                // {
+                //     type: 'doc',
+                //     docId: 'android/android-header',
+                //     position: 'left',
+                //     label: 'Android',
+                // },
                 // { to: '/blog', label: 'Blog', position: 'left' },
                 {
                     href: 'https://github.com/MyZenKey/documenter/',

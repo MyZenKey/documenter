@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Basic Concepts
 
 The following terminology will be useful in OIDC implementations.

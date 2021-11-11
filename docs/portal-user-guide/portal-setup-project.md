@@ -1,3 +1,7 @@
+---
+sidebar_position: 9
+---
+
 # Set up project
 
 After approval and acceptance of the limited trial agreement, your company is ready to tackle its first project.

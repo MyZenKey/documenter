@@ -1,3 +1,7 @@
+---
+sidebar_position: 15
+---
+
 # Set redirect URI
 
 After authentication, ZenKey uses your redirect URI to send users back to your app. Real-time requests must match one of the Redirect URIs in the ZenKey portal. 

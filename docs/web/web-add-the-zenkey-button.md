@@ -1,5 +1,5 @@
 # Add the ZenKey Button on the Web
-Use these buttons to begin the ZenKey sign-in flow. They function on the web and other digital platforms. See the [add the ZenKey button on Android](../android/android-add-the-zenkey-button.md).
+Use these buttons to begin the ZenKey sign-in flow. They function on the web and other digital platforms. See the [add the ZenKey button on Android](../android/quickstart/android-add-the-zenkey-button.md).
  
 ## Colored and Light Buttons 
 Use the color version on white or light backgrounds and the light button on dark backgrounds and in dark mode.

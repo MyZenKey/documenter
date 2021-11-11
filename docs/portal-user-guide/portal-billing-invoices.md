@@ -1,3 +1,7 @@
+---
+sidebar_position: 7
+---
+
 # Billing invoices
 
 Service Providers can view their billing invoices in the developer portal. Invoices are available for Service Providers who accept a commercial agreement and have at least one active (launched) client.
