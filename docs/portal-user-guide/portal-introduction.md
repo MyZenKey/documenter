@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Portal overveiw
@@ -13,6 +13,3 @@ The ZenKey portal is an online self-service portal that developers can use to:
   * Submit help tickets;
   * View analytics (not yet available); and
   * View invoices, set up payment methods, and execute payments (not yet available).
-
-
-  **Next:** [Getting started in the portal](portal-getting-started.md)

@@ -1,3 +1,7 @@
+---
+sidebar_position: 10
+---
+
 # Project name and logo
 
 Project names are how apps or services appear in the ZenKey app experience. Project names also describe apps or services in the ZenKey directory.

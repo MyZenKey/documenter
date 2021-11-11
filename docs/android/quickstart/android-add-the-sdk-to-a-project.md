@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Adding the SDK to a project on Android
 
 The ZenKey SDK comes as a Gradle, Maven, and Ivy reference. To use Gradle to integrate ZenKey in your project:

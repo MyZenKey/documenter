@@ -1,3 +1,6 @@
+---
+sidebar_position: 24
+---
 # Requesting User Information
 
 Upon receiving an Access Token, you may then request user info by issuing a GET request from your backend to the `userinfo_endpoint` discovered earlier.

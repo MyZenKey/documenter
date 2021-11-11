@@ -1,3 +1,7 @@
+---
+sidebar_position: 20
+---
+
 # Enabling Debug Logging on Android
 
 ZenKey's SDK offers a logging mechanism to help with integration and debugging.

@@ -1,3 +1,7 @@
+---
+sidebar_position: 14
+---
+
 # Overriding Default Redirect URI for Android
 
 ```xml  

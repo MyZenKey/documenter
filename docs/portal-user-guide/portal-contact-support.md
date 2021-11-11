@@ -1,3 +1,7 @@
+---
+sidebar_position: 21
+---
+
 # Contact portal support
 
 Completing registration of individual accounts in the ZenKey portal grants access to the support link on the left side of the screen. If you have any type of question or help request, contact ZenKey.

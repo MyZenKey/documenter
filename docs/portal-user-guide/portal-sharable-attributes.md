@@ -1,3 +1,7 @@
+---
+sidebar_position: 11
+---
+
 # Sharable attributes
 
 You must request the desired scope of end user attributes in the Portal, in order to request them from a particular user.  For example, if you do not set up a Project to include a request for end users to share their email addresses, then you will not be able to request it during your operation of ZenKey.

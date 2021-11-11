@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Features and Benefits
 
 ZenKey offers a secure mobile authorization platform for your users to sign into your apps and websites. Users can enable authentication and authorization from their mobile devices (e.g., phone, tablet), other trusted devices (laptop, TV), or web browsers. 

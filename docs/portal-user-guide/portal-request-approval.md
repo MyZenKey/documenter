@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Request approval
 
 From the Getting Started tab, click `Start Submission`, enter the requested information about your company, and press `Submit Company`. 

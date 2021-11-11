@@ -1,3 +1,7 @@
+---
+sidebar_position: 16
+---
+
 # Client Id credentials
 
 ZenKey offers two options for securing a client ID based on OAuth 2.0 specifications.  

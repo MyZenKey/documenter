@@ -1,3 +1,7 @@
+---
+sidebar_position: 20
+---
+
 # Manage projects
 
 After setting up the first project and client, logging into the ZenKey portal displays the projects overview page.

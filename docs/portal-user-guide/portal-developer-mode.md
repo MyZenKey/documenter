@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # Developer mode
 
 When your organization is governed by a ZenKey limited trial agreement, all your clients are automatically set to Developer Mode.

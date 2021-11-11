@@ -1,3 +1,7 @@
+---
+sidebar_position: 13
+---
+
 # Handling Authorization Responses on Android
 
 `PendingIntent` is a description of an Intent and target action to perform with it. Objects returned by `PendingIntent` can be directed toward other applications in order to perform a specified action such as integrating the ZenKey SDK for either successful or unsuccessful authorization responses.

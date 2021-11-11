@@ -1,3 +1,7 @@
+---
+sidebar_position: 15
+---
+
 # Custom Redirect URI for ZenKey Button on Android
 
 When using the `ZenKeyButton`, configure the custom Redirect URI as follows:

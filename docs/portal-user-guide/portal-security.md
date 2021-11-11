@@ -1,3 +1,7 @@
+---
+sidebar_position: 12
+---
+
 # Security and fraud prevention
 
 ZenKey has two security provisions.

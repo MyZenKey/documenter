@@ -1,3 +1,7 @@
+---
+sidebar_position: 8
+---
+
 # Invite collaborators
 
 Once your company is approved and active in the ZenKey portal, you may invite other coworkers to join you. Acceptance of contract agreements is unnecessary to being inviting others. 

@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # Setting Scopes for User Info on Android
 
 By default, authorization requests made with the ZenKey SDK include the scope OpenId. Set additional scopes using the `ZenKeyButton` as follows:
@@ -29,4 +33,4 @@ zenkeyButton.setAcrValues(ACR.AAL1)
 ### Use an intentbuilder to set the level user authentication
 intentbuilder.withAcrValues(ACR.AAL1)
 
-For information about sharing user scopes, see [Consenting to share user information](../additional-topics/consenting-to-share-user-information.md) .
+For information about sharing user scopes, see [Consenting to share user information](../../additional-topics/consenting-to-share-user-information.md).

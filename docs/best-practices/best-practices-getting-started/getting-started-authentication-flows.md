@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Authentication Flows
 
 Securing your applications and their associated data and resources is important. By prompting each mobile user who attempts to access your applications to authenticate who they are and that they are known by, their carriers fulfill this requirement. 

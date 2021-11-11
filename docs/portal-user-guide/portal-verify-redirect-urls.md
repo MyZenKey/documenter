@@ -1,3 +1,7 @@
+---
+sidebar_position: 18
+---
+
 # Verify redirect URLs
 
 After you finish setting up a client in the ZenKey Developer Portal, the client configuration is in a pending state until the domain control is proven (domain proofing). Afterwards, carriers can provision the client configuration.

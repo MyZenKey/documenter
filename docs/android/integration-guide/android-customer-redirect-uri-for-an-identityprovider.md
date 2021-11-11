@@ -1,3 +1,6 @@
+---
+sidebar_position: 16
+---
 # Custom Redirect URI for IdentityProvider on Android
 
 When using `identityProvider`,  configure the custom Redirect URI as follows:

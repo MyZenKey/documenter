@@ -1,3 +1,7 @@
+---
+sidebar_position: 21
+---
+
 # Configuring Access Token Requests for Android
 
 With the user’s consent in the form of an authorization code, your secure server will request an access token from the `token_endpoint` discovered earlier. Information on setting up your secure server can be found in [integration options on the web](doc:web-integration-options).
