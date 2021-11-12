@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdevpub=self.webpackChunkdevpub||[]).push([[9287],{1264:function(e){e.exports=JSON.parse('{"allTagsPath":"/documenter/blog/tags","slug":"/documenter/blog/tags/facebook","name":"facebook","count":1,"permalink":"/documenter/blog/tags/facebook"}')}}]);
