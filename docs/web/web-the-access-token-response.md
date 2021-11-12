@@ -1,3 +1,7 @@
+---
+sidebar_position: 9
+---
+
 # Access Token Response
 
 In addition to an access token, the token response returns an ID Token which includes the `sub` — an identifier that pairs a single user with a particular `client_id`. When you receive the `sub`, store it in your user database for reference. Do not transmit this `sub` to your client app.

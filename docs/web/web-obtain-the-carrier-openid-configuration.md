@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # Obtain the Carrier OpenID Configuration
 
 The iOS or Android SDK within your application on a primary device handle this section and its subsections."

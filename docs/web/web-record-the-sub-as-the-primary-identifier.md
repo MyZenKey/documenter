@@ -1,3 +1,7 @@
+---
+sidebar_position: 12
+---
+
 # Record the Sub as the Primary Identifier of the ZenKey User
 
 Because phone numbers and emails change, record the `sub` as the primary identifier of a ZenKey user in a database where you store information about your users. 
