@@ -1,3 +1,7 @@
+---
+sidebar_position: 7
+---
+
 # Requesting Authorization Code on the Web
 
 This section and its subsections are handled by the iOS or Android SDK within your application on a user's primary device.

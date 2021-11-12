@@ -1,3 +1,7 @@
+---
+sidebar_position: 9
+---
+
 # Request an Access Token
 
 After receiving an authorization code, your secure server requests an access token from the `token_endpoint` discovered earlier. Information on setting up your secure server is in [integration options on the web](doc:web-integration-options).

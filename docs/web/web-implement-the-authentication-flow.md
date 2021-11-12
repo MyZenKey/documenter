@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Implement the Authentication Flow on the Web
 
 The web and server implementation supports authorization on both primary and secondary devices.

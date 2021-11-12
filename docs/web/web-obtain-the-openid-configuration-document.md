@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # Obtain the OpenID Configuration Document
 
 The iOS or Android SDK within your application on a user's primary device covers this section and its subsections.
